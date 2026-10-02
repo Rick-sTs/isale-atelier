@@ -8,8 +8,8 @@ window.SITE_CONFIG = {
   BUSINESS_NAME: 'Isale Atelier',
 
   // WhatsApp number: country code + number, digits only, no "+", spaces or dashes.
-  // Real number provided by the owner's team: +504 3144-2488.
-  WHATSAPP_NUMBER: '50431442488',
+  // Real number provided by the owner's team: +504 3337-7861.
+  WHATSAPP_NUMBER: '50433377861',
 
   // Instagram profile URL, provided by the owner's team: @isaleatelier.
   // If this is ever emptied (or contains "TODO") the footer Instagram link is hidden.
