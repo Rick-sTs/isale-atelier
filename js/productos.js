@@ -431,5 +431,82 @@ window.PRODUCTOS = [
     thumb: 'img/thumbs/lily-rose-large-basket.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Canasta de mimbre con lirios, rosas rosadas, crisantemos y flores pequeñas blancas, con un moño crema.'
+  },
+  {
+    id: 'rose-gerbera-hydrangea-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de rosas, gerberas y hortensias',
+    description: 'Ramo con rosas, gerberas, hortensias y eucalipto.',
+    price: 988,
+    image: 'img/rose-gerbera-hydrangea-bouquet.jpg',
+    thumb: 'img/thumbs/rose-gerbera-hydrangea-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rosadas, gerberas blanca y durazno y hortensias azules en papel rosado, sostenidas por una mano.'
+  },
+  {
+    id: 'roses-eucalyptus-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de rosas con eucalipto',
+    description: 'Rosas con eucalipto.',
+    price: 800,
+    image: 'img/roses-eucalyptus-bouquet.jpg',
+    thumb: 'img/thumbs/roses-eucalyptus-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas blancas y durazno con eucalipto, en papel rosado y beige con un listón crema, sostenidas por una mano.'
+  },
+  {
+    id: 'small-gerbera-basket',
+    category: 'bouquets',
+    name: 'Canasta pequeña con gerbera',
+    description: 'Canasta con gerbera, lisianthus y rosas.',
+    price: 1300,
+    image: 'img/small-gerbera-basket.jpg',
+    thumb: 'img/thumbs/small-gerbera-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta pequeña tejida con una gerbera rosada, lisianthus y rosas, con listones rosados largos, sostenida por una mano.'
+  },
+  {
+    id: 'rose-hydrangea-basket',
+    category: 'bouquets',
+    name: 'Canasta de rosas y hortensias',
+    description: 'Canasta con rosas, lisianthus, gerbera y hortensias.',
+    price: 2000,
+    image: 'img/rose-hydrangea-basket.jpg',
+    thumb: 'img/thumbs/rose-hydrangea-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con rosas amarillas, lisianthus blancos, gerbera y hortensias azules, con un moño blanco.'
+  },
+  {
+    id: 'woven-gerbera-carnation-basket',
+    category: 'bouquets',
+    name: 'Canasta de gerberas y claveles',
+    description: 'Canasta con gerberas, rosas y claveles.',
+    price: 1890,
+    image: 'img/woven-gerbera-carnation-basket.jpg',
+    thumb: 'img/thumbs/woven-gerbera-carnation-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta tejida con gerberas, rosas y claveles en tonos durazno y rosado, con eucalipto.'
+  },
+  {
+    id: 'tall-handle-wildflower-basket',
+    category: 'bouquets',
+    name: 'Canasta con gerberas y flores silvestres',
+    description: 'Canasta con gerberas, rosas y flores silvestres.',
+    price: 1600,
+    image: 'img/tall-handle-wildflower-basket.jpg',
+    thumb: 'img/thumbs/tall-handle-wildflower-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con asa alta, con gerberas durazno, rosas y flores silvestres, sobre un banco de madera.'
+  },
+  {
+    id: 'bouquet-50-roses-gypsophila',
+    category: 'bouquets',
+    name: 'Ramo grande de 50 rosas',
+    description: 'Ramo de rosas con paniculata.',
+    price: 2700,
+    image: 'img/bouquet-50-roses-gypsophila.jpg',
+    thumb: 'img/thumbs/bouquet-50-roses-gypsophila.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Ramo redondo de rosas rojas y rosadas con paniculata, en papel rosado y blanco, sostenido por una mano.'
   }
 ];
