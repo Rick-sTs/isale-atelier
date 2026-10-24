@@ -342,5 +342,61 @@ window.PRODUCTOS = [
     thumb: 'img/thumbs/heart-balloons-roses-box.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Caja redonda rosada con rosas y flores pequeñas, y tres globos rosados en forma de corazón.'
+  },
+  {
+    id: 'bouquet-24-red-roses',
+    category: 'bouquets',
+    name: 'Ramo de 24 rosas rojas',
+    description: 'Ramo de rosas con eucalipto.',
+    price: 1200,
+    image: 'img/bouquet-24-red-roses.jpg',
+    thumb: 'img/thumbs/bouquet-24-red-roses.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rojas con eucalipto envueltas en papel blanco, con un listón rosado.'
+  },
+  {
+    id: 'lily-rose-basket',
+    category: 'bouquets',
+    name: 'Canasta de flores con lirios',
+    description: 'Canasta de flores con lirios y rosas.',
+    price: 2300,
+    image: 'img/lily-rose-basket.jpg',
+    thumb: 'img/thumbs/lily-rose-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con lirios rosados, rosas blancas y rosadas y otras flores, con un moño rosado.'
+  },
+  {
+    id: 'balloons-flower-box',
+    category: 'gifts',
+    name: 'Caja de flores con 6 globos de corazón',
+    description: 'Caja de flores con 6 globos en forma de corazón.',
+    price: 3800,
+    image: 'img/balloons-flower-box.jpg',
+    thumb: 'img/thumbs/balloons-flower-box.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Caja redonda rosada con flores rosadas y moradas, y un grupo de globos rosados en forma de corazón.'
+  },
+  {
+    id: 'rose-gold-balloons-flower-box',
+    category: 'gifts',
+    name: 'Caja de flores con globos oro rosa',
+    description: 'Caja de flores con dos globos en forma de corazón.',
+    price: 2000,
+    image: 'img/rose-gold-balloons-flower-box.jpg',
+    thumb: 'img/thumbs/rose-gold-balloons-flower-box.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Caja redonda rosada con flores rosadas y blancas, y dos globos color oro rosa en forma de corazón.'
+  },
+  {
+    id: 'bunny-gift-basket-balloons',
+    category: 'gifts',
+    personalizable: true,
+    name: 'Canasta de regalo con globos',
+    description: 'Canasta de regalo con peluche y globos en forma de corazón.',
+    price: 2800,
+    image: 'img/bunny-gift-basket-balloons.jpg',
+    thumb: 'img/thumbs/bunny-gift-basket-balloons.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con un peluche de conejo y tarjetas, sobre un pedestal blanco, con globos rosados en forma de corazón.'
   }
 ];
