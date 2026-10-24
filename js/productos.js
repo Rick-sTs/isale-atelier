@@ -283,8 +283,8 @@ window.PRODUCTOS = [
     name: 'Ramo de rosas con paniculata',
     description: 'Ramo de rosas con paniculata.',
     price: 880,
-    image: 'img/pink-roses-bouquet.jpg',
-    thumb: 'img/thumbs/pink-roses-bouquet.jpg',
+    image: 'img/pink-roses-bouquet-2.jpg',
+    thumb: 'img/thumbs/pink-roses-bouquet-2.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Rosas rosadas con flores pequeñas blancas, envueltas en papel rosado con un lazo.'
   },
@@ -398,5 +398,38 @@ window.PRODUCTOS = [
     thumb: 'img/thumbs/bunny-gift-basket-balloons.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Canasta de mimbre con un peluche de conejo y tarjetas, sobre un pedestal blanco, con globos rosados en forma de corazón.'
+  },
+  {
+    id: 'red-roses-gypsophila-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de rosas rojas con paniculata',
+    description: 'Ramo de rosas con paniculata.',
+    price: 780,
+    image: 'img/red-roses-gypsophila-bouquet.jpg',
+    thumb: 'img/thumbs/red-roses-gypsophila-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rojas con flores pequeñas blancas, envueltas en papel blanco con listones negros, sostenidas por una mano.'
+  },
+  {
+    id: 'pink-flower-round-box',
+    category: 'gifts',
+    name: 'Caja redonda de flores',
+    description: 'Caja de flores con rosas y claveles.',
+    price: 2950,
+    image: 'img/pink-flower-round-box.jpg',
+    thumb: 'img/thumbs/pink-flower-round-box.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Caja redonda rosada con flores rosadas, durazno y blancas y un moño rosado, sobre un banco de madera.'
+  },
+  {
+    id: 'lily-rose-large-basket',
+    category: 'bouquets',
+    name: 'Canasta grande de lirios y rosas',
+    description: 'Canasta de mimbre con lirios, rosas y crisantemos.',
+    price: 2700,
+    image: 'img/lily-rose-large-basket.jpg',
+    thumb: 'img/thumbs/lily-rose-large-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con lirios, rosas rosadas, crisantemos y flores pequeñas blancas, con un moño crema.'
   }
 ];
