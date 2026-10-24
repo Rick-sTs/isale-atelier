@@ -254,5 +254,93 @@ window.PRODUCTOS = [
     thumb: 'img/thumbs/keepsake-mailbox.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Foto de Buzón de regalo. Buzón decorativo de recuerdos.'
+  },
+  {
+    id: 'bouquet-50-red-roses',
+    category: 'bouquets',
+    name: 'Ramo de 50 rosas rojas',
+    description: 'Ramo de rosas.',
+    price: 1850,
+    image: 'img/bouquet-50-red-roses.jpg',
+    thumb: 'img/thumbs/bouquet-50-red-roses.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rojas envueltas en papel blanco, con un lazo rojo, sostenidas por una mano.'
+  },
+  {
+    id: 'bouquet-24-pink-roses',
+    category: 'bouquets',
+    name: 'Ramo de 24 rosas rosadas',
+    description: 'Ramo de rosas con paniculata.',
+    price: 1200,
+    image: 'img/bouquet-24-pink-roses.jpg',
+    thumb: 'img/thumbs/bouquet-24-pink-roses.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rosadas con flores pequeñas blancas, envueltas en papel blanco con listones rosados, sobre un soporte transparente.'
+  },
+  {
+    id: 'pink-roses-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de rosas con paniculata',
+    description: 'Ramo de rosas con paniculata.',
+    price: 880,
+    image: 'img/pink-roses-bouquet.jpg',
+    thumb: 'img/thumbs/pink-roses-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Rosas rosadas con flores pequeñas blancas, envueltas en papel rosado con un lazo.'
+  },
+  {
+    id: 'orange-gerbera-bouquet',
+    category: 'bouquets',
+    name: 'Ramo naranja con gerbera',
+    description: 'Ramo con gerbera.',
+    price: 1080,
+    image: 'img/orange-gerbera-bouquet.jpg',
+    thumb: 'img/thumbs/orange-gerbera-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Flores en tonos naranja y crema envueltas en papel kraft con un lazo naranja, sostenidas por una mano.'
+  },
+  {
+    id: 'sunflower-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de girasoles',
+    description: 'Ramo con girasoles y rosas, con eucalipto.',
+    price: 1100,
+    image: 'img/sunflower-bouquet.jpg',
+    thumb: 'img/thumbs/sunflower-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Girasoles y flores en tonos naranja envueltos en papel amarillo mostaza y café, sostenidos por una mano.'
+  },
+  {
+    id: 'red-rose-basket',
+    category: 'bouquets',
+    name: 'Canasta de rosas rojas',
+    description: 'Canasta de flores con rosas y eucalipto.',
+    price: 1950,
+    image: 'img/red-rose-basket.jpg',
+    thumb: 'img/thumbs/red-rose-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con rosas rojas, flores blancas y rosadas y eucalipto, con un lazo rosado.'
+  },
+  {
+    id: 'pink-flower-basket',
+    category: 'bouquets',
+    name: 'Canasta de flores en tonos rosa',
+    description: 'Canasta de flores con gerberas y rosas.',
+    price: 1500,
+    image: 'img/pink-flower-basket.jpg',
+    thumb: 'img/thumbs/pink-flower-basket.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Canasta de mimbre con flores rosadas, durazno y blancas sobre una base blanca, con un listón rosado largo.'
+  },
+  {
+    id: 'heart-balloons-roses-box',
+    category: 'gifts',
+    name: 'Caja de rosas con globos de corazón',
+    description: 'Caja de flores con tres globos en forma de corazón.',
+    price: 3200,
+    image: 'img/heart-balloons-roses-box.jpg',
+    thumb: 'img/thumbs/heart-balloons-roses-box.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Caja redonda rosada con rosas y flores pequeñas, y tres globos rosados en forma de corazón.'
   }
 ];
