@@ -508,5 +508,16 @@ window.PRODUCTOS = [
     thumb: 'img/thumbs/bouquet-50-roses-gypsophila.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
     alt: 'Ramo redondo de rosas rojas y rosadas con paniculata, en papel rosado y blanco, sostenido por una mano.'
+  },
+  {
+    id: 'lily-chrysanthemum-rose-bouquet',
+    category: 'bouquets',
+    name: 'Ramo de lirios, crisantemos y rosas',
+    description: 'Lirios, crisantemos y rosas.',
+    price: null,
+    image: 'img/lily-chrysanthemum-rose-bouquet.jpg',
+    thumb: 'img/thumbs/lily-chrysanthemum-rose-bouquet.jpg',
+    width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
+    alt: 'Ramo alto de lirios rosados, crisantemos blancos y rosas rosadas con botones de lirio, en papel blanco con un listón rosado.'
   }
 ];
