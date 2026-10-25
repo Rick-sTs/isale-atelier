@@ -514,7 +514,7 @@ window.PRODUCTOS = [
     category: 'bouquets',
     name: 'Ramo de lirios, crisantemos y rosas',
     description: 'Lirios, crisantemos y rosas.',
-    price: null,
+    price: 2100,
     image: 'img/lily-chrysanthemum-rose-bouquet.jpg',
     thumb: 'img/thumbs/lily-chrysanthemum-rose-bouquet.jpg',
     width: 900, height: 1125, thumbWidth: 480, thumbHeight: 600,
